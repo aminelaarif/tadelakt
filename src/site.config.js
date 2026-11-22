@@ -3,7 +3,7 @@
 // Canonical URLs, the sitemap, Open Graph tags and JSON-LD are all built from it,
 // so a wrong value here would point Google at the wrong site.
 export const SITE = {
-  url: 'https://tadelakt-guide.example.com',
+  url: 'https://tadelakt.netlify.app',
   name: 'Tadelakt Guide',
   lang: 'en',
   locale: 'en_US',
