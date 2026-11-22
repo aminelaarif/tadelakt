@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" width="720" height="360" font-family="system-ui, sans-serif" font-size="18">
+  <title>Cross-section of a tadelakt wall</title>
+  <rect width="720" height="360" fill="#f3e6d6"/>
+  <rect x="60" y="40" width="200" height="280" fill="#9b8f86"/>
+  <rect x="260" y="40" width="40" height="280" fill="#d9a07f"/>
+  <rect x="300" y="40" width="30" height="280" fill="#b85a36"/>
+  <rect x="330" y="40" width="8" height="280" fill="#7e3218"/>
+  <g fill="#2b211c">
+    <text x="160" y="185" text-anchor="middle" fill="#fff">Substrate</text>
+    <line x1="280" y1="80" x2="420" y2="80" stroke="#2b211c"/><text x="430" y="86">First coat (1–2 mm)</text>
+    <line x1="315" y1="160" x2="420" y2="160" stroke="#2b211c"/><text x="430" y="166">Second coat, stone-polished</text>
+    <line x1="334" y1="240" x2="420" y2="240" stroke="#2b211c"/><text x="430" y="246">Black soap layer</text>
+  </g>
+</svg>
